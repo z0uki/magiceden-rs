@@ -1,0 +1,10 @@
+/target
+.zed
+.idea
+.env
+
+*.out
+*.log
+
+Cargo.lock
+.DS_Store
